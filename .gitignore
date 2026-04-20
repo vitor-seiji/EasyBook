@@ -1,0 +1,13 @@
+config.py
+sessao_kindle.session
+sessao_app.session
+ebooks.db
+ebooks/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+desktop.ini
